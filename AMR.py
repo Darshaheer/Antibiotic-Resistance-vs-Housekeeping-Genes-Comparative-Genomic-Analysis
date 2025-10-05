@@ -12,7 +12,7 @@ from collections import Counter
 Clustal_path = r"C:\Program Files (x86)\ClustalW2\clustalw2.exe"
 
 #Entrez Email
-Entrez.email = "shaheerdar085@gmail.com"
+Entrez.email = "your Email"
 
 #Sequences to Download
 ARG_list = [
@@ -154,3 +154,4 @@ combined_bias = pd.concat([ARG_bias, HK_bias], ignore_index=True)
 combined_bias.to_excel("Gene_Nucleotide_Composition.xlsx", index=False)
 
 print("Nucleotide bias + GC% summary saved as 'Gene_Nucleotide_Composition.xlsx'")
+
