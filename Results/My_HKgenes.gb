@@ -1,0 +1,578 @@
+LOCUS       KP670789                4029 bp    DNA     linear   BCT 26-FEB-2015
+DEFINITION  Escherichia coli strain DA24692 RpoB (rpoB) gene, complete cds.
+ACCESSION   KP670789
+VERSION     KP670789.1
+KEYWORDS    .
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria;
+            Enterobacterales; Enterobacteriaceae; Escherichia.
+REFERENCE   1  (bases 1 to 4029)
+  AUTHORS   Thulin,E., Sundqvist,M. and Andersson,D.I.
+  TITLE     Amdinocillin (Mecillinam) Resistance Mutations in Clinical Isolates
+            and Laboratory-Selected Mutants of Escherichia coli
+  JOURNAL   Antimicrob. Agents Chemother. 59 (3), 1718-1727 (2015)
+   PUBMED   25583718
+REFERENCE   2  (bases 1 to 4029)
+  AUTHORS   Thulin,E., Sundqvist,M. and Andersson,D.I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-JAN-2015) Medical Biochemistry and Microbiology,
+            Uppsala University, Husargatan 3, Box 582, Uppsala SE-745123, Sweden
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: CLC Bio v. 7.5
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..4029
+                     /organism="Escherichia coli"
+                     /mol_type="genomic DNA"
+                     /strain="DA24692"
+                     /db_xref="taxon:562"
+     gene            1..4029
+                     /gene="rpoB"
+     CDS             1..4029
+                     /gene="rpoB"
+                     /note="RNA polymerase, beta subunit"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="RpoB"
+                     /protein_id="AJF45152.1"
+                     /translation="MVYSYTEKKRIRKDFGKRPQVLDVPYLLSIQLDSFQKFIEQDPEG
+                     QYGLEAAFRSVFPIQSYSGNSELQYVSYRLGEPVFDVQECQIRGVTYSAPLRVKLRLVI
+                     YEREAPEGTVKDIKEQEVYMGEIPLMTDNGTFVINGTERVIVSQLHRSPGVFFDSDKGK
+                     THSSGKVLYNARIIPYRGSWLDFEFDPKDNLFVRIDRRRKLPATIILRALNYTTEQILD
+                     LFFEKVIFEIRDNKLQMELVPERLRGETASFDIEANGKVYVEKGRRITARHIRQLEKDD
+                     VKLIEVPVEYIAGKVVAKDYIDESTGELICAANMELSLDLLAKLSQSGHKRIETLFTND
+                     LDHGPYISETLRVDPTNDRLSALVEIYRMMRPGEPPTREAAESLFENLFFSEDRYDLSA
+                     VGRMKFNRSLLREEIEGSGILSKDDIIDVMKKLIDIRNGKGEVDDIDHLGNRRIRSVGE
+                     MAENQFRVGLVRVERAVKERLSLGDLDTLMPQDMINAKPISAAVKEFFGSSQLSQFMDQ
+                     NNPLSEITHKRRISALGPGGLTRERAGFEVRDVHPTHYGRVCPIETPEGPNIGLINSLS
+                     VYAQTNEYGFLETPYRKVTDGVVTDEIHYLSAIEEGNYVIAQANSNLDEEGHFVEDLVT
+                     CRSKGESSLFSRDQVDYMDVSTQQVVSVGASLIPFLEHDDANRALMGANMQRQAVPTLR
+                     ADKPLVGTGMERAVAVDSGVTAVAKRGGVVQYVDASRIVIKVNEDEMYPGEAGIDIYNL
+                     TKYTRSNQNTCINQMPCVSLGEPVERGDVLADGPSTDLGELALGQNMRVAFMPWNGYNF
+                     EDSILVSERVVQEDRFTTIHIQELACVSRDTKLGPEEITADIPNVGEAALSKLDESGIV
+                     YIGAEVTGGDILVGKVTPKGETQLTPEEKLLRAIFGEKASDVKDSSLRVPNGVSGTVID
+                     VQVFTRDGVEKDKRALEIEEMQLKQAKKDLSEELQILEAGLFSRIRAVLVAGGVEAEKL
+                     DKLPRDRWLELGLTDEEKQNQLEQLAEQYDELKHEFEKKLEAKRRKITQGDDLAPGVLK
+                     IVKVYLAVKRRIQPGDKMAGRHGNKGVISKINPIEDMPYDENGTPVDIVLNPLGVPSRM
+                     NIGQILETHLGMAAKGIGDKINAMLKQQQEVAKLREFIQRAYDLGADVRQKVDLSTFSD
+                     EEVMRLAENLRKGMPIATPVFDGAKEAEIKELLKLGDLPTSGQIRLYDGRTGEQFERPV
+                     TVGYMYMLKLNHLVDDKMHARSTGSYSLVTQQPLGGKAQFGGQRFGEMEVWALEAYGAA
+                     YTLQEMLTVKSDDVNGRTKMYKNIVDGNHQMEPGMPESFNVLLKEIRSLGINIELEDE"
+ORIGIN
+        1 atggtttact cctataccga gaaaaaacgt attcgtaagg attttggtaa acgtccacaa
+       61 gttctggatg taccttatct cctttctatc cagcttgact cgtttcagaa atttatcgag
+      121 caagatcctg aagggcagta tggtctggaa gctgctttcc gttccgtatt cccgattcag
+      181 agctacagcg gtaattccga gctgcaatac gtcagctacc gccttggcga accggtgttt
+      241 gacgtccagg aatgtcaaat ccgtggcgtg acctattccg caccgctgcg cgttaaactg
+      301 cgtctggtga tctatgagcg cgaagcgccg gaaggcaccg taaaagacat taaagaacaa
+      361 gaagtctaca tgggcgaaat tccgctcatg acagacaacg gtacctttgt tatcaacggt
+      421 actgagcgtg ttatcgtttc ccagctgcac cgtagtccgg gcgtcttctt tgactccgac
+      481 aaaggtaaaa cccactcttc gggtaaagtg ctgtataacg cgcgtatcat cccttaccgt
+      541 ggttcctggc tggacttcga attcgatccg aaggacaacc tgttcgtacg tatcgaccgt
+      601 cgccgtaaac tgcctgcgac catcattctg cgcgccctga actacaccac agagcagatc
+      661 ctcgacctgt tctttgaaaa agttatcttt gaaatccgtg ataacaagct gcagatggaa
+      721 ctggtgccgg aacgcctgcg tggtgaaacc gcatcttttg acatcgaagc taacggtaaa
+      781 gtgtacgtag aaaaaggccg ccgtatcact gcgcgccaca ttcgccagct ggaaaaagac
+      841 gacgtcaaac tgatcgaagt cccggttgag tacatcgcag gtaaagtggt tgctaaagac
+      901 tatattgatg agtctaccgg cgagctgatc tgcgcagcga acatggagct gagcctggat
+      961 ctgctggcta agctgagcca gtctggtcac aagcgtatcg aaacgctgtt caccaacgat
+     1021 ctggatcacg gcccatatat ctctgaaacc ttacgtgtcg acccaactaa cgaccgtctg
+     1081 agcgcactgg tagaaatcta ccgcatgatg cgccctggcg agccgccgac tcgtgaagca
+     1141 gctgaaagcc tgttcgagaa cctgttcttc tccgaagacc gttatgactt gtctgcggtt
+     1201 ggtcgtatga agttcaaccg ttctctgctg cgcgaagaaa tcgaaggttc cggtatcctg
+     1261 agcaaagacg acatcattga tgttatgaaa aagctcatcg atatccgtaa cggtaaaggc
+     1321 gaagtcgatg atatcgacca cctcggcaac cgtcgtatcc gttccgttgg cgaaatggcg
+     1381 gaaaaccagt tccgcgttgg cctggtacgt gtagagcgtg cggtgaaaga gcgtctgtct
+     1441 ctgggcgatc tggataccct gatgccacag gatatgatca acgccaagcc gatttccgca
+     1501 gcagtgaaag agttcttcgg ttccagccag ctgtctcagt ttatggacca gaacaacccg
+     1561 ctgtctgaga ttacgcacaa acgtcgtatc tccgcactcg gcccaggcgg tctgacccgt
+     1621 gaacgtgcag gcttcgaagt tcgagacgta cacccgactc actacggtcg cgtatgtcca
+     1681 atcgaaaccc ctgaaggtcc gaacatcggt ctgatcaact ctctgtccgt gtacgcacag
+     1741 actaacgaat acggcttcct tgagactccg tatcgtaaag tgaccgacgg tgttgtaact
+     1801 gacgaaattc actacctgtc tgctatcgaa gaaggcaact acgttatcgc ccaggcgaac
+     1861 tccaacttgg atgaagaagg ccacttcgta gaagacctgg taacttgccg tagcaaaggc
+     1921 gaatccagct tgttcagccg cgaccaggtt gactacatgg acgtatccac ccagcaggtg
+     1981 gtatccgtcg gtgcgtccct gatcccgttc ctggaacacg atgacgccaa ccgtgcattg
+     2041 atgggtgcga acatgcaacg tcaggccgtt ccgactctgc gcgctgataa gccgctggtt
+     2101 ggtactggta tggaacgtgc tgttgccgtt gactccggtg taactgcggt agctaaacgt
+     2161 ggtggtgtcg ttcagtacgt ggatgcttcc cgtatcgtta tcaaagttaa cgaagacgag
+     2221 atgtatccgg gtgaagcagg tatcgacatc tacaacctga ccaaatacac ccgttctaac
+     2281 cagaacacct gtatcaacca gatgccgtgt gtgtctctgg gtgaaccggt tgaacgtggc
+     2341 gacgtgctgg cagacggtcc gtccaccgac ctcggtgaac tggcgcttgg tcagaacatg
+     2401 cgcgtagcgt tcatgccgtg gaatggttac aacttcgaag actccatcct cgtatccgag
+     2461 cgtgttgttc aggaagaccg tttcaccacc atccacattc aggaactggc gtgtgtgtcc
+     2521 cgtgacacca agctgggtcc ggaagagatc accgctgaca tcccgaacgt gggtgaagct
+     2581 gcgctctcca aactggatga atccggtatc gtttacattg gtgcggaagt gaccggtggc
+     2641 gacattctgg ttggtaaggt aacgccgaaa ggtgaaactc agctgacccc agaagaaaaa
+     2701 ctgctgcgtg cgatcttcgg tgagaaagcc tctgacgtta aagactcttc tctgcgcgta
+     2761 ccaaacggtg tatccggtac ggttatcgac gttcaggtct ttactcgcga tggcgtagaa
+     2821 aaagacaaac gtgcgctgga aatcgaagaa atgcagctca aacaggcgaa gaaagacctg
+     2881 tctgaagaac tgcagatcct cgaagcgggt ctgttcagcc gtatccgtgc tgtgctggta
+     2941 gccggtggcg ttgaagctga gaagctcgac aaactgccgc gcgatcgctg gctggagctg
+     3001 ggcctgacag acgaagagaa acaaaatcag ctggaacagc tggctgagca gtatgacgaa
+     3061 ctgaaacacg agttcgagaa gaaactcgaa gcgaaacgcc gcaaaatcac ccagggcgac
+     3121 gatctggcac cgggcgtgct gaagattgtt aaggtatatc tggcggttaa acgccgtatc
+     3181 cagcctggtg acaagatggc aggtcgtcac ggtaacaagg gtgtaatttc taagatcaac
+     3241 ccgatcgaag atatgcctta cgatgaaaac ggtacgccgg tagacatcgt actgaacccg
+     3301 ctgggcgtac cgtctcgtat gaacatcggt cagatcctcg aaacccacct gggtatggct
+     3361 gcgaaaggta tcggcgacaa gatcaacgcc atgctgaaac agcagcaaga agtcgcgaaa
+     3421 ctgcgcgaat tcatccagcg tgcgtacgat ctgggcgctg acgttcgtca gaaagttgac
+     3481 ctgagtacct tcagcgatga agaagttatg cgtctggctg aaaacctgcg caaaggtatg
+     3541 ccaatcgcaa cgccggtgtt cgacggtgcg aaagaagcag aaattaaaga gctgctgaaa
+     3601 cttggcgacc tgccgacttc cggtcagatc cgcctgtacg atggtcgcac tggtgaacag
+     3661 ttcgagcgtc cggtaaccgt tggttacatg tacatgctga aactgaacca cctggtcgac
+     3721 gacaagatgc acgcgcgttc caccggttct tacagcctgg ttactcagca gccgctgggt
+     3781 ggtaaggcac agttcggtgg tcagcgtttc ggggagatgg aagtgtgggc gctggaagca
+     3841 tacggcgcag catacaccct gcaggaaatg ctcaccgtta agtctgatga cgtgaacggt
+     3901 cgtaccaaga tgtataaaaa catcgtggac ggcaaccatc agatggagcc gggcatgcca
+     3961 gaatccttca acgtattgtt gaaagagatt cgttcgctgg gtatcaacat cgaactggaa
+     4021 gacgagtaa
+//
+LOCUS       MK564156                2628 bp    DNA     linear   BCT 17-AUG-2020
+DEFINITION  Escherichia coli strain BR2641 DNA gyrase subunit A (gyrA) gene,
+            complete cds.
+ACCESSION   MK564156
+VERSION     MK564156.1
+KEYWORDS    .
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria;
+            Enterobacterales; Enterobacteriaceae; Escherichia.
+REFERENCE   1  (bases 1 to 2628)
+  AUTHORS   Thomrongsuwannakij,T.
+  TITLE     Avian pathogenic Escherichia coli isolated from Thailand and
+            Australia
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 2628)
+  AUTHORS   Thomrongsuwannakij,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-FEB-2019) Akkhararatchkumari Veterinary College,
+            Walailak University, 222 Thaiburi, Thasala district, Nakhon Si
+            Thammarat 80160, Thailnad
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.11.1
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..2628
+                     /organism="Escherichia coli"
+                     /mol_type="genomic DNA"
+                     /strain="BR2641"
+                     /host="chicken"
+                     /db_xref="taxon:562"
+                     /geo_loc_name="Australia"
+     gene            1..2628
+                     /gene="gyrA"
+     CDS             1..2628
+                     /gene="gyrA"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="DNA gyrase subunit A"
+                     /protein_id="QEQ12761.1"
+                     /translation="MSDLAREITPVNIEEELKSSYLDYAMSVIVGRALPDVRDGLKPVH
+                     RRVLYAMNVLGNDWNKAYKKSARVVGDVIGKYHPHGDLAVYDTIVRMAQPFSLRYMLVD
+                     GQGNFGSIDGDSAAAMRYTEIRLAKIAHELMADLEKETVDFVDNYDGTEKIPDVMPTKI
+                     PNLLVNGSSGIAVGMATNIPPHNLTEVINGCLAYIDDEDISIEGLMEHIPGPDFPTAAI
+                     INGRRGIEEAYRTGRGKVYIRARAEVEVDAKTGRETIIVHEIPYQVNKARLIEKIAELV
+                     KEKRVEGISALRDESDKDGMRIVIEVKRDAVGEVVLNNLYSQTQLQVSFGINMVALHHG
+                     QPKIMNLKDIIAAFVRHRREVVTRRTIFELRKARDRAHILEALAVALANIDPIIELIRH
+                     APTPAEAKTALVANPWQLGNVAAMLERAGDDAARPEWLEPEFGVRDGLYYLTEQQAQAI
+                     LDLRLQKLTGLEHEKLLDEYKELLDQIAELLRILGSADRLMEVIREELELVREQFGDKR
+                     RTEITANSADINLEDLITQEDVVVTLSHQGYVKYQPLSEYEAQRRGGKGKSAARIKEED
+                     FIDRLLVANTHDHILCFSSRGRVYSMKVYQLPEATRGARGRPIVNLLPLEQDERITAIL
+                     PVTEFEEGVKVFMATANGTVKKTVLTEFNRLRTAGKVAIKLVEGDELIGVDLTSGEDEV
+                     MLFSAEGKVVRFKESSVRAMGCNTTGVRGIRLGEGDKVVSLIVPRGDGAILTATQNGYG
+                     KRTAVAEYPTKSRATKGVISIKVTERNGLVVGAVQVDDCDQIMMITDAGTLVRTRVSEI
+                     SIVGRNTQGVILIRTAEDENVVGLQRVAEPVDEEDLDTIDGSAAEGDDEIAPEVDVDDE
+                     PEEE"
+ORIGIN
+        1 atgagcgacc ttgcgagaga aattacaccg gtcaacattg aggaagagct gaagagctcc
+       61 tatctggatt atgcgatgtc ggtcattgtt ggccgtgcgc tgccagatgt ccgagatggc
+      121 ctgaagccgg tacaccgtcg cgtactttac gccatgaacg tactaggcaa tgactggaac
+      181 aaagcctata aaaaatctgc ccgtgtcgtt ggtgacgtaa tcggtaaata ccatccccat
+      241 ggtgacttgg cggtttatga cacgatcgtc cgtatggcgc agccattctc gctgcgttac
+      301 atgctggtag acggtcaggg taacttcggt tccatcgacg gcgactctgc ggcggcaatg
+      361 cgttatacgg aaatccgtct ggcgaaaatt gcccatgaac tgatggccga tctcgaaaaa
+      421 gagacggtcg atttcgtaga taactatgac ggcacggaaa aaattcccga cgtcatgcca
+      481 accaaaattc ctaacctgct ggtgaacggt tcttccggta tcgccgtagg tatggcaacc
+      541 aacatcccgc cgcacaacct gacggaagtc atcaacggtt gtctggcgta tatcgatgat
+      601 gaagacatca gcattgaagg gctgatggaa cacatccccg ggccggactt cccgacggcg
+      661 gcaatcatta acggtcgtcg cggtattgaa gaagcttacc gtaccggtcg cggcaaggta
+      721 tatatccgcg cccgtgctga agtggaagtt gacgccaaaa ccggacgtga aaccattatc
+      781 gtccacgaaa ttccgtatca ggtaaacaaa gcgcgcctga tcgagaagat tgcggaactg
+      841 gtaaaagaaa aacgcgtgga aggcatcagc gcgctgcgtg acgagtctga caaagacggt
+      901 atgcgcatcg tgattgaagt gaaacgcgat gcggtcggtg aagttgtgct caacaacctc
+      961 tactcccaga cccagttgca ggtttctttc ggtatcaaca tggtggcatt gcaccatggt
+     1021 cagccgaaga tcatgaacct gaaagacatc atcgcggcgt ttgttcgtca ccgccgcgaa
+     1081 gtggtgactc gtcgtactat tttcgaactg cgtaaagctc gcgatcgtgc tcatatcctt
+     1141 gaagcattag ccgtagcgct ggcgaacatc gacccgatca tcgaactgat ccgtcatgcg
+     1201 ccgacgcctg cagaagcgaa aactgcgctg gtggctaatc cgtggcagct gggcaacgtt
+     1261 gccgccatgc tcgaacgtgc gggcgatgat gctgcgcgtc cggaatggct ggagccagag
+     1321 ttcggcgtgc gtgatggtct gtactacctg accgaacagc aagctcaggc gattctggat
+     1381 ctgcgtttgc agaaactgac cggccttgag catgaaaaac tgctcgacga atacaaagag
+     1441 ctgctggatc agatcgcaga actgctgcgt attcttggca gtgccgatcg tctgatggaa
+     1501 gtgatccgcg aagagctgga actggttcgt gaacagttcg gtgacaaacg tcgtactgaa
+     1561 atcaccgcta acagcgccga catcaacctg gaagatctga tcacccagga agatgtggtg
+     1621 gtcacgcttt ctcaccaggg ttacgtgaag tatcagccgc tttctgaata tgaagcgcag
+     1681 cgtcgtggcg ggaaaggtaa atctgccgca cgtattaaag aagaagactt tatcgaccga
+     1741 ctgctggtgg cgaacaccca cgaccatatt ctgtgcttct ccagccgtgg ccgcgtctat
+     1801 tcgatgaagg tctaccagtt accagaagcc actcgtggcg cgcgtggtcg tccgatcgtc
+     1861 aacctgctgc cgctggagca ggacgaacgt atcactgcga tcctgccggt gaccgagttt
+     1921 gaagaaggcg tgaaagtctt catggcgacc gctaacggta ctgtgaagaa aaccgtcctc
+     1981 accgagttca accgtctgcg taccgccggt aaagtggcga tcaaactggt tgaaggcgat
+     2041 gagctgatcg gcgttgacct gaccagcggc gaagacgaag taatgctgtt ctccgccgaa
+     2101 ggtaaagtgg tgcgctttaa agagtcttct gtccgtgcga tgggctgcaa caccaccggt
+     2161 gttcgcggta ttcgtttagg cgaaggcgat aaagtcgtct ctctgatcgt gcctcgtggc
+     2221 gatggcgcaa tcctcaccgc aacgcagaac ggttatggta aacgtaccgc agtggcggaa
+     2281 tacccaacca agtcgcgtgc gacgaaaggg gttatctcca tcaaggttac cgaacgtaac
+     2341 ggtttagtgg ttggcgcggt gcaggtagat gactgcgacc agatcatgat gatcaccgat
+     2401 gccggtacgc tggtacgtac tcgcgtttcg gaaatcagca tcgtgggccg taacacccag
+     2461 ggcgtgatcc tcatccgtac tgcggaagat gaaaacgtag tgggtctgca acgtgttgct
+     2521 gaaccggttg acgaggaaga tctggatacc atcgacggca gtgccgcgga aggggacgat
+     2581 gaaatcgctc cggaagtgga cgttgacgac gagccagaag aagaataa
+//
+LOCUS       EU896799                1062 bp    DNA     linear   BCT 08-JUN-2009
+DEFINITION  Escherichia coli strain TW14359 RecA protein (ECs3556) gene,
+            complete cds.
+ACCESSION   EU896799
+VERSION     EU896799.1
+KEYWORDS    .
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria;
+            Enterobacterales; Enterobacteriaceae; Escherichia.
+REFERENCE   1  (bases 1 to 1062)
+  AUTHORS   Leopold,S.R., Magrini,V., Holt,N.J., Shaikh,N., Mardis,E.R.,
+            Cagno,J., Ogura,Y., Iguchi,A., Hayashi,T., Mellmann,A., Karch,H.,
+            Besser,T.E., Sawyer,S.A., Whittam,T.S. and Tarr,P.I.
+  TITLE     A precise reconstruction of the emergence and constrained radiations
+            of Escherichia coli O157 portrayed by backbone concatenomic analysis
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 106 (21), 8713-8718 (2009)
+   PUBMED   19439656
+REFERENCE   2  (bases 1 to 1062)
+  AUTHORS   Leopold,S.R., Magrini,V., Holt,N.J., Shaikh,N., Mardis,E.R.,
+            Cagno,J., Oguro,Y., Iguchi,A., Hayashi,T., Mellmann,A., Karch,H.,
+            Besser,T.E., Sawyer,S.A., Whittam,T.S. and Tarr,P.I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-JUL-2008) Department of Pediatrics, Washington
+            University School of Medicine, 660 South Euclid Avenue, Saint Louis,
+            MO 63110, USA
+FEATURES             Location/Qualifiers
+     source          1..1062
+                     /organism="Escherichia coli"
+                     /mol_type="genomic DNA"
+                     /strain="TW14359"
+                     /db_xref="taxon:562"
+     gene            1..1062
+                     /locus_tag="ECs3556"
+     CDS             1..1062
+                     /locus_tag="ECs3556"
+                     /note="similar to RecA protein, Escherichia coli O157 Sakai
+                     ECs3556"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="RecA protein"
+                     /protein_id="ACI79355.1"
+                     /translation="MAIDENKQKALAAALGQIEKQFGKGSIMRLGEDRSMDVETISTGS
+                     LSLDIALGAGGLPMGRIVEIYGPESSGKTTLTLQVIAAAQREGKTCAFIDAEHALDPIY
+                     ARKLGVDIDNLLCSQPDTGEQALEICDALARSGAVDVIVVDSVAALTPKAEIEGEIGDS
+                     HMGLAARMMSQAMRKLAGNLKQSNTLLIFINQIRMKIGVMFGNPETTTGGNALKFYASV
+                     RLDIRRIGAVKEGENVVGSETRVKVVKNKIAAPFKQAEFQILYGEGINFYGELVDLGVK
+                     EKLIEKAGAWYSYKGEKIGQGKANATAWLKDNPETAKEIEKKVRELLLSNPNSTPDFSV
+                     DDSEGVAETNEDF"
+ORIGIN
+        1 atggctatcg acgaaaacaa acagaaagcg ttggcggcag cactgggcca gattgagaaa
+       61 caatttggta aaggctccat catgcgcctg ggtgaagacc gttccatgga tgtggaaacc
+      121 atctctaccg gttcgctttc actggatatc gcgcttgggg caggtggtct gccgatgggc
+      181 cgtatcgtcg aaatctacgg accggaatct tccggtaaaa ccacgctgac gttgcaggtg
+      241 attgccgcag cgcagcgtga aggtaaaacc tgtgcgttta tcgatgctga acacgcgctg
+      301 gacccaatct acgcacgtaa actgggcgtc gatatcgaca acctgctgtg ctcccagccg
+      361 gacaccggcg agcaggcact ggaaatctgt gacgccctgg cgcgttctgg cgcagtagac
+      421 gttatcgtcg ttgactccgt ggcggcactg acgccgaaag cggaaatcga aggcgaaatc
+      481 ggcgactctc acatgggcct tgcggcacgt atgatgagcc aggcgatgcg taagctggcg
+      541 ggtaacctga agcagtccaa cacgctgctg atcttcatca accagatccg tatgaaaatt
+      601 ggtgtgatgt tcggtaaccc ggaaaccact accggtggta acgcgctgaa attctacgcc
+      661 tctgttcgtc tcgacatccg tcgtatcggc gcggtgaaag agggcgaaaa cgtggtgggt
+      721 agcgaaaccc gcgtgaaagt ggtgaagaac aaaatcgctg cgccgtttaa acaggctgaa
+      781 ttccagatcc tctacggcga aggtatcaac ttctacggcg aactggttga cctgggcgta
+      841 aaagagaagc tgatcgagaa agcaggcgcg tggtacagct acaaaggtga gaagatcggt
+      901 cagggtaaag cgaatgcaac tgcctggctg aaagataacc cggaaaccgc gaaagagatc
+      961 gagaagaaag tacgtgagtt gctgctgagc aacccgaact caacgccgga tttctctgta
+     1021 gatgatagcg aaggcgtagc agaaactaac gaagattttt aa
+//
+LOCUS       EU892694                 420 bp    DNA     linear   BCT 08-JUN-2009
+DEFINITION  Escherichia coli strain TW14359 membrane-bound ATP synthase
+            beta-subunit AtpD (ECs4673) gene, complete cds.
+ACCESSION   EU892694
+VERSION     EU892694.1
+KEYWORDS    .
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria;
+            Enterobacterales; Enterobacteriaceae; Escherichia.
+REFERENCE   1  (bases 1 to 420)
+  AUTHORS   Leopold,S.R., Magrini,V., Holt,N.J., Shaikh,N., Mardis,E.R.,
+            Cagno,J., Ogura,Y., Iguchi,A., Hayashi,T., Mellmann,A., Karch,H.,
+            Besser,T.E., Sawyer,S.A., Whittam,T.S. and Tarr,P.I.
+  TITLE     A precise reconstruction of the emergence and constrained radiations
+            of Escherichia coli O157 portrayed by backbone concatenomic analysis
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 106 (21), 8713-8718 (2009)
+   PUBMED   19439656
+REFERENCE   2  (bases 1 to 420)
+  AUTHORS   Leopold,S.R., Magrini,V., Holt,N.J., Shaikh,N., Mardis,E.R.,
+            Cagno,J., Oguro,Y., Iguchi,A., Hayashi,T., Mellmann,A., Karch,H.,
+            Besser,T.E., Sawyer,S.A., Whittam,T.S. and Tarr,P.I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-JUL-2008) Department of Pediatrics, Washington
+            University School of Medicine, 660 South Euclid Avenue, Saint Louis,
+            MO 63110, USA
+FEATURES             Location/Qualifiers
+     source          1..420
+                     /organism="Escherichia coli"
+                     /mol_type="genomic DNA"
+                     /strain="TW14359"
+                     /db_xref="taxon:562"
+     gene            1..420
+                     /locus_tag="ECs4673"
+     CDS             1..420
+                     /locus_tag="ECs4673"
+                     /note="similar to membrane-bound ATP synthase beta-subunit
+                     AtpD, Escherichia coli O157 Sakai ECs4673"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="membrane-bound ATP synthase beta-subunit AtpD"
+                     /protein_id="ACI75260.1"
+                     /translation="MAMTYHLDVVSAEQQMFSGLVEKIQVTGSEGELGIYPGHAPLLTA
+                     IKPGMIRIVKQHGHEEFIYLSGGILEVQPGNVTVLADTAIRGQDLDEARAMEAKRKAEE
+                     HISSSHGDVDYAQASAELAKAIAQLRVIELTKKAM"
+ORIGIN
+        1 atggcaatga cttaccacct ggacgtcgtc agcgcagagc aacaaatgtt ctctggtctg
+       61 gtcgagaaaa tccaggtaac gggtagcgaa ggtgaactgg ggatctaccc tggccacgca
+      121 ccgctgctca ccgccattaa gcctggtatg attcgcatcg tgaaacagca cggtcacgaa
+      181 gagtttatct atctgtctgg cggcattctt gaagtgcagc ctggcaacgt gaccgttctg
+      241 gccgacaccg caattcgcgg ccaggatctc gacgaagcgc gagccatgga agcgaaacgt
+      301 aaggctgaag agcacattag cagctctcac ggcgacgtag attacgctca ggcgtctgcg
+      361 gaactggcca aagcgatcgc gcagctgcgc gttatcgagt tgaccaaaaa agcgatgtaa
+//
+LOCUS       AB035920                7003 bp    DNA     linear   BCT 26-JUL-2016
+DEFINITION  Escherichia coli O157:H7 hemG, rrsA, ileT, alaT, rrlA, rrfA, mobB,
+            mobA genes for protoporphyrin oxidase protein, 16S rRNA, isoleucine
+            tRNA 1, alanine tRNA 1B, 23S rRNA, 5S rRNA, molybdopterin-guanine
+            dinucleotide biosynthesis protein B, molybdopterin-guanine
+            dinucleotide biosynthesis protein A, complete and partial cds.
+ACCESSION   AB035920
+VERSION     AB035920.1
+KEYWORDS    molybdopterin-guanine dinucleotide biosynthesis protein B;
+            molybdopterin-guanine dinucleotide biosynthesis protein A;
+            protoporphyrin oxidase protein; alanine tRNA 1B; isoleucine tRNA 1;
+            5S ribosomal RNA; 23S ribosomal RNA; 16S ribosomal RNA.
+SOURCE      Escherichia coli O157:H7
+  ORGANISM  Escherichia coli O157:H7
+            Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria;
+            Enterobacterales; Enterobacteriaceae; Escherichia.
+REFERENCE   1
+  AUTHORS   Ohnishi,M., Murata,T., Nakayama,K., Kuhara,S., Hattori,M.,
+            Kurokawa,K., Yasunaga,T., Yokoyama,K., Makino,K., Shinagawa,H. and
+            Hayashi,T.
+  TITLE     Comparative analysis of the whole set of rRNA operons between an
+            enterohemorrhagic Escherichia coli O157:H7 Sakai strain and an
+            Escherichia coli K-12 strain MG1655
+  JOURNAL   Syst. Appl. Microbiol. 23 (3), 315-324 (2000)
+   PUBMED   11108008
+REFERENCE   2  (bases 1 to 7003)
+  AUTHORS   Ohnishi,M. and Hayashi,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-DEC-1999) Makoto Ohnishi, Shinshu university, School
+            of Medicine, Department of Bacteriology; 3-1-1, Asahi, Matsumoto,
+            Nagano 390-8621, Japan (E-mail:ohnishi7@sch.md.shinshu-u.ac.jp,
+            Tel:81-263-37-2615, Fax:81-263-37-2616)
+FEATURES             Location/Qualifiers
+     source          1..7003
+                     /organism="Escherichia coli O157:H7"
+                     /mol_type="genomic DNA"
+                     /strain="RIMD 0509952"
+                     /db_xref="taxon:83334"
+                     /note="enterohemorrhagic E. coli"
+     gene            38..583
+                     /gene="hemG"
+     CDS             38..583
+                     /gene="hemG"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="protoporphyrin oxidase protein"
+                     /protein_id="BAA93555.1"
+                     /translation="MKTLILFSTRDGQTREIASYLASELKELGIQADVANVHRIEEPQW
+                     ENYDRVVIGASIRYGHYHSAFQEFVKKHATRLNSMPSAFYSVNLVARKPEKRTPQTNSY
+                     ARKFLMNSQWRPDRCAVIAGALRYPRYRWYDRFMIKLIMKMSGGETDTRKEVVYTDWEQ
+                     VANFAREIAHLTDKPTLK"
+     gene            964..2505
+                     /gene="rrsA"
+     rRNA            964..2505
+                     /gene="rrsA"
+                     /product="16S ribosomal RNA"
+     gene            2574..2650
+                     /gene="ileT"
+     tRNA            2574..2650
+                     /gene="ileT"
+                     /product="tRNA-Ile"
+     gene            2693..2768
+                     /gene="alaT"
+     tRNA            2693..2768
+                     /gene="alaT"
+                     /product="tRNA-Ala"
+     gene            2952..5855
+                     /gene="rrlA"
+     rRNA            2952..5855
+                     /gene="rrlA"
+                     /product="23S ribosomal RNA"
+     gene            5949..6068
+                     /gene="rrfA"
+     rRNA            5949..6068
+                     /gene="rrfA"
+                     /product="5S ribosomal RNA"
+     gene            complement(6168..6680)
+                     /gene="mobB"
+     CDS             complement(6168..6680)
+                     /gene="mobB"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="molybdopterin-guanine dinucleotide biosynthesis
+                     protein B"
+                     /protein_id="BAA93556.1"
+                     /translation="MIPLLAFAAWSGTGKTTLLKKLIPALCARGIRPGLIKHTHHDMDV
+                     DKPGKDSYELRKAGAAQTIVASQQRWALMTETPDEEELDLQFLASRMDTSKLDLILVEG
+                     FKHEEIAKIVLFRDGAGHRPEELVIDRHVIAVASDVPLNLDVALLDINDVEGLADFVVE
+                     WMQNQDG"
+     gene            complement(6677..>7003)
+                     /gene="mobA"
+     CDS             complement(6677..>7003)
+                     /gene="mobA"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="molybdopterin-guanine dinucleotide biosynthesis
+                     protein A"
+                     /protein_id="BAA93557.1"
+                     /translation="MQQEAGEWFLFCPCDTPYIPHDLAARLNHQRKDAPVVWVHDGERD
+                     HPTIAMVNRAIEPLLLEYLQAGERRVMAFMRLAGGHAVDFSDHKDAFVNVNTPEELARW
+                     QEKR"
+ORIGIN
+        1 ttaccccgac tttctggcgt gaatgatgga gtaatacgtg aaaacattaa ttcttttctc
+       61 aacaagggac ggacaaacgc gcgagattgc ctcctacttg gcttcggaac tgaaagaact
+      121 ggggatccag gcggatgtcg ccaatgtgca ccgcattgaa gaaccacagt gggaaaacta
+      181 cgaccgtgtg gtcattggtg cttctattcg ctatggtcac taccactctg cgttccagga
+      241 atttgtcaaa aagcatgcga cgcggctgaa ttcgatgccg agcgcgtttt actccgtaaa
+      301 cctggtggcg cgtaaaccgg agaagcgcac tccacagacc aacagctacg cgcggaagtt
+      361 tctgatgaac tcgcaatggc gtcccgatcg ctgcgcggtc attgccgggg cgctgcgtta
+      421 cccacgttat cgctggtacg accgttttat gatcaagctg attatgaaga tgtcaggcgg
+      481 tgaaacggat acgcgcaaag aagttgtcta taccgattgg gagcaggtgg cgaatttcgc
+      541 ccgagaaatc gcccatttaa ccgacaaacc gacgctgaaa taagcataaa gaataaaaaa
+      601 tgcgcggtca gaaaattatt ttaaatttcc ccttgtcagg ccggaataac tccctataat
+      661 gcgccaccac tgacacggaa caacggcaaa cacgccgccg ggtcagcggg attctcctga
+      721 gaattccggc agagaaagca aaaataaatg cttgactctg tagcgggaaa gcgtaatata
+      781 cgccacctcg cgacagtgag ctgaaagccg cgtcgcaact gctctttaac aatttatcag
+      841 acaatctgtg tgggcactcg aagatacgga ttcttaacgt cgcaagacga aaaatgaata
+      901 ccaagtctca agagtgaaca cgtaattcat tacgaagttt aattctttga gcatcaaact
+      961 tttaaattga agagtttgat catggctcag attgaacgct ggcggcaggc ctaacacatg
+     1021 caagtcgaac ggtaacagga agaagcttgc ttctttgctg acgagtggcg gacgggtgag
+     1081 taatgtctgg gaaactgcct gatggagggg gataactact ggaaacggta gctaataccg
+     1141 cataacgtcg caagaccaaa gagggggacc ttcgggcctc ttgccatcgg atgtgcccag
+     1201 atgggattag ctagtaggtg gggtaacggc tcacctaggc gacgatccct agctggtctg
+     1261 agaggatgac cagccacact ggaactgaga cacggtccag actcctacgg gaggcagcag
+     1321 tggggaatat tgcacaatgg gcgcaagcct gatgcagcca tgccgcgtgt atgaagaagg
+     1381 ccttcgggtt gtaaagtact ttcagcgggg aggaagggag taaagttaat acctttgctc
+     1441 attgacgtta cccgcagaag aagcaccggc taactccgtg ccagcagccg cggtaatacg
+     1501 gagggtgcaa gcgttaatcg gaattactgg gcgtaaagcg cacgcaggcg gtttgttaag
+     1561 tcagatgtga aatccccggg ctcaacctgg gaactgcatc tgatactggc aagcttgagt
+     1621 ctcgtagagg ggggtagaat tccaggtgta gcggtgaaat gcgtagagat ctggaggaat
+     1681 accggtggcg aaggcggccc cctggacgaa gactgacgct caggtgcgaa agcgtgggga
+     1741 gcaaacagga ttagataccc tggtagtcca cgccgtaaac gatgtcgact tggaggttgt
+     1801 gcccttgagg cgtggcttcc ggagctaacg cgttaagtcg accgcctggg gagtacggcc
+     1861 gcaaggttaa aactcaaatg aattgacggg ggcccgcaca agcggtggag catgtggttt
+     1921 aattcgatgc aacgcgaaga accttacctg gtcttgacat ccacagaact ttccagagat
+     1981 ggattggtgc cttcgggaac tgtgagacag gtgctgcatg gctgtcgtca gctcgtgttg
+     2041 tgaaatgttg ggttaagtcc cgcaacgagc gcaaccctta tcctttgttg ccagcggtcc
+     2101 ggccgggaac tcaaaggaga ctgccagtga taaactggag gaaggtgggg atgacgtcaa
+     2161 gtcatcatgg cccttacgac cagggctaca cacgtgctac aatggcgcat acaaagagaa
+     2221 gcgacctcgc gagagcaagc ggacctcata aagtgcgtcg tagtccggat tggagtctgc
+     2281 aactcgactc catgaagtcg gaatcgctag taatcgtgga tcagaatgcc acggtgaata
+     2341 cgttcccggg ccttgtacac accgcccgtc acaccatggg agtgagttgc aaaagaagta
+     2401 ggtagcttaa ccttcgggag ggcgcttacc actttgtgat tcatgactgg ggtgaagtcg
+     2461 taacaaggta accgtagggg aacctgcggt tggatcacct ccttacctta aagaactgta
+     2521 ctttgcagtg ctcacacaga ttgtctgatg aaaatgagca gtaaaacctc tacaggcttg
+     2581 tagctcaggt ggttagagcg cacccctgat aagggtgagg tcggtggttc aagtccactc
+     2641 aggcctacca aatttgcacg gcaaatttga agaggtttta actacatgtt atggggctat
+     2701 agctcagctg ggagagcgcc tgctttgcac gcaggaggtc tgcggttcga tcccgcatag
+     2761 ctccaccatc tctgtagtga ttaaataaaa aatacttcag agtgtacctg caaaggttca
+     2821 ctgcgaagtt ttgctcttta aaaatctgga tcaagctgaa aattgaaaca ctgaacaacg
+     2881 agagttgttc gtgagtctct caaattttcg caacacgatg atgaatcgaa agaaacatct
+     2941 tcgggttgtg aggttaagcg actaagcgta cacggtggat gccctggcag tcagaggcga
+     3001 tgaaggacgt gctaatctgc gataagcgtc ggtaaggtga tatgaaccgt tataaccggc
+     3061 gatttccgaa tggggaaacc cagtgtgatt cgtcacacta tcattaactg aatccatagg
+     3121 ttaatgaggc gaaccggggg aactgaaaca tctaagtacc ccgaggaaaa gaaatcaacc
+     3181 gagattcccc cagtagcggc gagcgaacgg ggaggagccc agagcctgaa tcagtgtgtg
+     3241 tgttagtgga agcgtctgga aaggcgcgcg atacagggtg acagccccgt acacaaaaat
+     3301 gcacatgctg tgagctcgat gagtagggcg ggacacgtgg tatcctgtct gaatatgggg
+     3361 ggaccatcct ccaaggctaa atactcctga ctgaccgata gtgaaccagt accgtgaggg
+     3421 aaaggcgaaa agaaccccgg cgaggggagt gaaaaagaac ctgaaaccgt gtacgtacaa
+     3481 gcagtgggag cacagagcaa tctgtgtgac tgcgtacctt ttgtataatg ggtcagcgac
+     3541 ttatattctg tagcaaggtt aaccgaatag gggagccgaa gggaaaccga gtcttaactg
+     3601 ggcgttaagt tgcagggtat agacccgaaa cccggtgatc tagccatggg caggttgaag
+     3661 gttgggtaac actaactgga ggaccgaacc gactaatgtt gaaaaattag cggatgactt
+     3721 gtggctgggg gtgaaaggcc aatcaaaccg ggagatagct ggttctcccc gaaagctatt
+     3781 taggtagcgc ctcgtgaatt catctccggg ggtagagcac tgtttcggca agggggtcat
+     3841 cccgacttac caacccgatg caaactgcga ataccggaga atgttatcac gggagacaca
+     3901 cggcgggtgc taacgtccgt cgtgaagagg gaaacaaccc agaccgccag ctaaggtccc
+     3961 aaagtcatgg ttaagtggga aacgatgtgg gaaggcccag acagccagga tgttggctta
+     4021 gaagcagcca tcatttaaag aaagcgtaat agctcactgg tcgagtcggc ctgcgcggaa
+     4081 gatgtaacgg ggctaaacca tgcaccgaag ctgcggcagc gacactgtgt gttgttgggt
+     4141 aggggagcgt tctgtaagcc tgtgaaggtg tgctgtgagg catgctggag gtatcagaag
+     4201 tgcgaatgct gacataagta acgataaagc gggtgaaaag cccgctcgcc ggaagaccaa
+     4261 gggttcctgt ccaacgttaa tcggggcagg gtgagtcgac ccctaaggcg aggccgaaag
+     4321 gcgtagtcga tgggaaacag gttaatattc ctgtacttgg tgttactgcg aaggggggac
+     4381 ggagaaggct atgttggccg ggcgacggtt gtcccggttt aagcgtgtag gctggttttc
+     4441 caggcaaatc cggaaaatca aggctgaggc gtgatgacga ggcactacgg tgctgaagca
+     4501 acaaatgccc tgcttccagg aaaagcctct aagcatcagg taacatcaaa tcgtacccca
+     4561 aaccgacaca ggtggtcagg tagagaatac caaggcgctt gagagaactc gggtgaagga
+     4621 actaggcaaa atggtgccgt aacttcggga gaaggcacgc tgatatgtag gtgaagtccc
+     4681 tcgcggatgg agctgaaatc agtcgaagat accagctggc tgcaactgtt tattaaaaac
+     4741 acagcactgt gcaaacacga aagtggacgt atacggtgtg acgcctgccc ggtgccggaa
+     4801 ggttaattga tggggtcagc gcaagcgaag ctcttgatcg aagccccggt aaacggcggc
+     4861 cgtaactata acggtcctaa ggtagcgaaa ttccttgtcg ggtaagttcc gacctgcacg
+     4921 aatggcgtaa tgatggccag gctgtctcca cccgagactc agtgaaattg aactcgctgt
+     4981 gaagatgcag tgtacccgcg gcaagacgga aagaccccgt gaacctttac tatagcttga
+     5041 cactgaacat tgagccttga tgtgtaggat aggtgggagg ctttgaagtg tggacgccag
+     5101 tctgcatgga gccgaccttg aaataccacc ctttaatgtt tgatgttcta acgtggaccc
+     5161 gtgatccggg ttgcggacag tgtctggtgg gtagtttgac tggggcggtc tcctcctaaa
+     5221 gagtaacgga ggagcacgaa ggttggctaa tcctggtcgg acatcaggag gttagtgcaa
+     5281 tggcataagc cagcttgact gcgagcgtga cggcgcgagc aggtgcgaaa gcaggtcata
+     5341 gtgatccggt ggttctgaat ggaagggcca tcgctcaacg gataaaaggt actccgggga
+     5401 taacaggctg ataccgccca agagttcata tcgacggcgg tgtttggcac ctcgatgtcg
+     5461 gctcatcaca tcctggggct gaagtaggtc ccaagggtat ggctgttcgc catttaaagt
+     5521 ggtacgcgag ctgggtttag aacgtcgtga gacagttcgg tccctatctg ccgtgggcgc
+     5581 tggagaactg aggggggctg ctcctagtac gagaggaccg gagtggacgc atcactggtg
+     5641 ttcgggttgt catgccaatg gcactgcccg gtagctaaat gcggaagaga taagtgctga
+     5701 aagcatctaa gcacgaaact tgccccgaga tgagttctcc ctgacccttt aagggtcctg
+     5761 aaggaacgtt gaagacgacg acgttgatag gccgggtgtg taagcgcagc gatgcgttga
+     5821 gctaaccggt actaatgaac cgtgaggctt aaccttacaa cgccgaaggt gttttggcgg
+     5881 atgagagaag attttcggcc tgatacagat taaatcagaa cgcagaagcg gtctgataaa
+     5941 acagaatttg cctggcggcc ttagcgcggt ggtcccacct gaccccatgc cgaactcaga
+     6001 agtgaaacgc cgtagcgccg atggtagtgt ggggtctccc catgcgagag tagggaactg
+     6061 ccaggcatca aataaagcga aaggccatcc tgacggatgg cctttttgcg ttggtgcaaa
+     6121 aaaatgccgg atgcgacgct ggcgcgtctg ctccagccta ctcttgctta tccgtcctga
+     6181 ttttgcatcc actccaccac aaaatcagcc agcccctcaa catcattaat atccagtaat
+     6241 gcgacatcaa gattaagcgg cacatcactg gctacagcaa taacatgcct gtctatcact
+     6301 aattcttcag gtcgatgtcc ggctccatcg cgaaacagca caatctttgc gatctcttca
+     6361 tgcttaaacc cttcgaccag aatcaaatcc agctttgagg tatccattcg acttgcgaga
+     6421 aactgtagat ccagctcttc ttcgtctggt gtttccgtca tcaaggccca tcgttgctgg
+     6481 ctggcaacga tggtttgtgc cgcgccagcc ttgcgcagct catagctatc tttgcctggc
+     6541 ttatcaacat ccatatcatg gtgcgtatgc ttaatcagcc ctggacggat ccctctggcg
+     6601 cataatgccg ggatcagttt tttcaaaagc gtagtttttc cggtaccact ccacgcggca
+     6661 aaggcgagta acggtatcat cgtttttcct gccatcgggc aagctcctct ggcgtattca
+     6721 cgttaacaaa tgcatcttta tgatcgctga aatcaaccgc atgaccgcca gccagacgca
+     6781 taaatgccat tacccggcgt tctcctgctt gcagatattc tagtaataaa ggctcaatag
+     6841 cgcggtttac catagcaata gtcgggtgat cgcgttcacc gtcatggacc cacacgacag
+     6901 gcgcatcttt gcgctgatga ttaagccggg cggctaaatc atggggaatg taaggcgtat
+     6961 cgcacggaca aaacaaaaac cactcaccag cttcctgctg cat
+//

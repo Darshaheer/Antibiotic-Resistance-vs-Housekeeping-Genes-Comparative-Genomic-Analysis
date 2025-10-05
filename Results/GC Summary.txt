@@ -1,0 +1,9 @@
+The GC Contents for Both Resistant and Housekeeping Genes is:
+The Resistant Gene:
+ARG_1 : 49.13%
+ARG_2 : 31.20%
+ARG_3 : 44.67%
+ARG_4 : 35.91%
+ARG_5 : 54.34%
+The Housekeeping Genes:
+HK_1 : 52.62%HK_2 : 54.07%HK_3 : 53.86%HK_4 : 55.24%HK_5 : 51.99%

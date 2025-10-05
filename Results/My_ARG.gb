@@ -1,0 +1,343 @@
+LOCUS       MG653169                 861 bp    DNA     linear   BCT 08-MAY-2018
+DEFINITION  Escherichia coli strain SRT41 extended spectrum beta lactamase (TEM)
+            gene, TEM-116 allele, complete cds.
+ACCESSION   MG653169
+VERSION     MG653169.1
+KEYWORDS    .
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria;
+            Enterobacterales; Enterobacteriaceae; Escherichia.
+REFERENCE   1  (bases 1 to 861)
+  AUTHORS   Siddiqui,M.T., Sultan,I. and Haq,Q.M.R.
+  TITLE     Studies on CTX-M type Extended Spectrum beta-Lactamases producing
+            bacterial isolates from Delhi stretch of river Yamuna
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 861)
+  AUTHORS   Siddiqui,M.T., Sultan,I. and Haq,Q.M.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-DEC-2017) Department of Biosciences, Jamia Millia
+            Islamia, Moulana Mohammad Ali Jauhar Marg, New Delhi, New Delhi
+            110025, India
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..861
+                     /organism="Escherichia coli"
+                     /mol_type="genomic DNA"
+                     /strain="SRT41"
+                     /isolation_source="water"
+                     /db_xref="taxon:562"
+                     /geo_loc_name="India"
+                     /collection_date="03-Jan-2015"
+                     /collected_by="MOHAMMAD TAHIR SIDDIQUI"
+                     /PCR_primers="fwd_name: tem-f, fwd_seq:
+                     atgagtrttcaacatttccg, rev_name: tem-r, rev_seq:
+                     ccaatgcttaatsagtgagg"
+     gene            1..861
+                     /gene="TEM"
+                     /allele="TEM-116"
+     CDS             1..861
+                     /gene="TEM"
+                     /allele="TEM-116"
+                     /note="antibiotic resistance"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="extended spectrum beta lactamase"
+                     /protein_id="AWH12111.1"
+                     /translation="MSIQHFRVALIPFFAAFCLPVFAHPETLVKVKDAEDQLGARVGYI
+                     ELDLNSGKILESFRPEERFPMMSTFKVLLCGAVLSRIDAGQEQLGRRIHYSQNDLVEYS
+                     PVTEKHLTDGMTVRELCSAAITMSDNTAANLLLTTIGGPKELTAFLHNMGDHVTRLDRW
+                     EPELNEAIPNDERDTTMPVAMATTLRKLLTGELLTLASRQQLIDWMEADKVAGPLLRSA
+                     LPAGWFIADKSGAGERGSRGIIAALGPDGKPSRIVVIYTTGSQATMDERNRQIAEIGAS
+                     LIKHW"
+ORIGIN
+        1 atgagtattc aacatttccg tgtcgccctt attccctttt ttgcggcatt ttgccttcct
+       61 gtttttgctc acccagaaac gctggtgaaa gtaaaagatg ctgaagatca gttgggtgca
+      121 cgagtgggtt acatcgaact ggatctcaac agcggtaaga tccttgagag ttttcgcccc
+      181 gaagaacgtt ttccaatgat gagcactttt aaagttctgc tatgtggcgc ggtattatcc
+      241 cgtattgacg ccgggcaaga gcaactcggt cgccgcatac actattctca gaatgacttg
+      301 gttgagtact caccagtcac agaaaagcat cttacggatg gcatgacagt aagagaatta
+      361 tgcagtgctg ccataaccat gagtgataac actgcggcca acttacttct gacaacgatc
+      421 ggaggaccga aggagctaac cgcttttttg cacaacatgg gggatcatgt aactcgcctt
+      481 gatcgttggg aaccggagct gaatgaagcc ataccaaacg acgagcgtga caccacgatg
+      541 cctgtagcaa tggcaacaac gttgcgcaaa ctattaactg gcgaactact tactctagct
+      601 tcccggcaac aattaataga ctggatggag gcggataaag ttgcaggacc acttctgcgc
+      661 tcggcccttc cggctggctg gtttattgct gataaatctg gagccggtga gcgtgggtct
+      721 cgcggtatca ttgcagcact ggggccagat ggtaagccct cccgtatcgt agttatctac
+      781 acgacgggga gtcaggcaac tatggatgaa cgaaatagac agatcgctga gataggtgcc
+      841 tcactgatta agcattggta a
+//
+LOCUS       OM574584                 811 bp    DNA     linear   BCT 12-JUL-2022
+DEFINITION  Staphylococcus aureus strain 366 MecA (mecA) gene, complete cds.
+ACCESSION   OM574584
+VERSION     OM574584.1
+KEYWORDS    .
+SOURCE      Staphylococcus aureus
+  ORGANISM  Staphylococcus aureus
+            Bacteria; Bacillati; Bacillota; Bacilli; Bacillales;
+            Staphylococcaceae; Staphylococcus.
+REFERENCE   1  (bases 1 to 811)
+  AUTHORS   Jogi,J., L,A., Nayak,A., Jadav,K., Shakya,P., Singh,R., Rai,A.,
+            Gangil,R., Bordoloi,S. and K,H.
+  TITLE     mecA gene of Staphylococus aureus
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 811)
+  AUTHORS   Jogi,J., L,A., Nayak,A., Jadav,K., Shakya,P., Singh,R., Rai,A.,
+            Gangil,R., Bordoloi,S. and K,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2022) Animal Biotechnology, NDVSU, Adhatal,
+            Jabalpur, MP 482001, India
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..811
+                     /organism="Staphylococcus aureus"
+                     /mol_type="genomic DNA"
+                     /strain="366"
+                     /isolation_source="milk"
+                     /host="buffalo; breed: Murrah"
+                     /db_xref="taxon:1280"
+                     /geo_loc_name="India"
+                     /collected_by="Aishwarya Lade"
+                     /note="M214/269_Milk_Jbp"
+     gene            245..682
+                     /gene="mecA"
+     CDS             245..682
+                     /gene="mecA"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="MecA"
+                     /protein_id="UTE10705.1"
+                     /translation="MLTVYGHRGLPSKAPENTIASFKAASEVEGINWLELDVAITKDEQ
+                     LIIIHEDYLERTTNMSGEITELNYDEIKDASAGSWFGEKFKDEHLPSFDDVVKIANEYN
+                     MNLNVELKGITGPNGLALSKSMVKQVEEQLTNLNQNQEELI"
+ORIGIN
+        1 agcaatccta agtaaaattg cagataaggg gtacagaaaa tctagacttg attacaaaat
+       61 ggagcttggg agtcataaat gattttttaa aaatgagatg agacgtagat taactccata
+      121 atcaatacga atctatcgag ttctttattt atgataatca tctgttttta atggaaataa
+      181 aagtgcgatt aatgtgataa tacagttacg ttaattaaaa aaataaaatg caaggagagg
+      241 taatatgcta actgtatatg gacatagagg attacctagt aaagctccgg aaaatacaat
+      301 tgcatcattt aaagctgctt cagaagtaga aggtataaac tggttggagt tagatgttgc
+      361 aattacaaaa gatgaacaac tgattatcat tcatgaggat tatttagaac ggactacaaa
+      421 tatgtccggg gaaataactg aattgaatta tgatgaaatt aaagatgctt ctgcaggatc
+      481 ttggtttggt gaaaaattca aagatgaaca tttgccaagt ttcgatgatg tagtaaaaat
+      541 agcaaatgaa tataatatga atttaaatgt agaattaaaa ggtattactg gaccgaatgg
+      601 actagcactt tctaaaagta tggttaagca agtggaagaa caattaacaa acttaaatca
+      661 gaatcaagaa gagctcattt aagctttaat gttctgcttg ttaaacttgc agaagaaatc
+      721 atgccataat ataacagagc agttatattc catagaactt cgtttcgtga agactggaga
+      781 acacttttag attactgtaa tgctaaaata c
+//
+LOCUS       MG460317                1032 bp    DNA     linear   BCT 30-JAN-2018
+DEFINITION  Enterococcus faecalis strain CU709 D-alanine-D-lactate ligase VanA
+            (vanA) gene, complete cds.
+ACCESSION   MG460317
+VERSION     MG460317.1
+KEYWORDS    .
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Bacillati; Bacillota; Bacilli; Lactobacillales;
+            Enterococcaceae; Enterococcus.
+REFERENCE   1  (bases 1 to 1032)
+  AUTHORS   Quinones,D., Aung,M.S., Sousa Martins,J.P., Urushibara,N. and
+            Kobayashi,N.
+  TITLE     Genetic characteristics of VanA-type vancomycin-resistant
+            Enterococcus faecalis and Enterococcus faecium in Cuba
+  JOURNAL   New Microbes New Infect 21, 125-127 (2017)
+   PUBMED   29348921
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1032)
+  AUTHORS   Aung,M.S., Quinones,D. and Kobayashi,N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-NOV-2017) Hygiene, Sapporo Medical University, S-1
+            W-17, Chuo-ku, Sapporo, Hokkaido 060-8556, Japan
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1032
+                     /organism="Enterococcus faecalis"
+                     /mol_type="genomic DNA"
+                     /strain="CU709"
+                     /isolation_source="blood"
+                     /db_xref="taxon:1351"
+                     /geo_loc_name="Cuba"
+                     /collection_date="30-Jun-2011"
+                     /note="genotype: ST28"
+     gene            1..1032
+                     /gene="vanA"
+     CDS             1..1032
+                     /gene="vanA"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="D-alanine-D-lactate ligase VanA"
+                     /protein_id="AUT13967.1"
+                     /translation="MNRIKVAILFGGCSEEHDVSVKSAIEIAANINKEKYEPLYIGITK
+                     SGVWKMCEKPCAEWENDNCYSAVLSPDKKMHGLLVKKNHEYEINHVDVAFSALHGKSGE
+                     DGSIQGLFELSGIPFVGCDIQSSAICMDKSLTYIVAKNAGIATPAFWVINKDDRPVAAT
+                     FTYPVFVKPARSGSSFGVKKVNSADELDYAIESARQYDSKILIEQAVSGCEVGCAVLGN
+                     SAALVVGEVDQIRLQYGIFRIHQEVEPEKGSENAVITVPADLSAEERGRIQETAKKIYK
+                     ALGCRGLARVDMFLQDNGRIVLNEVNTLPGFTSYSRYPRMMAAAGIALPELIDRLIVLA
+                     LKG"
+ORIGIN
+        1 atgaatagaa taaaagttgc aatactgttt gggggttgct cagaggagca tgacgtatcg
+       61 gtaaaatctg caatagagat agccgctaac attaataaag aaaaatacga gccgttatac
+      121 attggaatta cgaaatctgg tgtatggaaa atgtgcgaaa aaccttgcgc ggaatgggaa
+      181 aacgacaatt gctattcagc tgtactctcg ccggataaaa aaatgcacgg attacttgtt
+      241 aaaaagaacc atgaatatga aatcaaccat gttgatgtag cattttcagc tttgcatggc
+      301 aagtcaggtg aagatggatc catacaaggt ctgtttgaat tgtccggtat cccttttgta
+      361 ggctgcgata ttcaaagctc agcaatttgt atggacaaat cgttgacata catcgttgcg
+      421 aaaaatgctg ggatagctac tcccgccttt tgggttatta ataaagatga taggccggtg
+      481 gcagctacgt ttacctatcc tgtttttgtt aagccggcgc gttcaggctc atccttcggt
+      541 gtgaaaaaag tcaatagcgc ggacgaattg gactacgcaa ttgaatcggc aagacaatat
+      601 gacagcaaaa tcttaattga gcaggctgtt tcgggctgtg aggtcggttg tgcggtattg
+      661 ggaaacagtg ccgcgttagt tgttggcgag gtggaccaaa tcaggctgca gtacggaatc
+      721 tttcgtattc atcaggaagt cgagccggaa aaaggctctg aaaacgcagt tataaccgtt
+      781 cccgcagacc tttcagcaga ggagcgagga cggatacagg aaacggcaaa aaaaatatat
+      841 aaagcgctcg gctgtagagg tctagcccgt gtggatatgt ttttacaaga taacggccgc
+      901 attgtactga acgaagtcaa tactctgccc ggtttcacgt catacagtcg ttatccccgt
+      961 atgatggccg ctgcaggtat tgcacttccc gaactgattg accgcttgat cgtattagcg
+     1021 ttaaaggggt ga
+//
+LOCUS       AY466395                1994 bp    DNA     linear   BCT 24-MAY-2004
+DEFINITION  Streptococcus pneumoniae strain PN34 TetM (tetM) gene, complete cds.
+ACCESSION   AY466395
+VERSION     AY466395.1
+KEYWORDS    .
+SOURCE      Streptococcus pneumoniae
+  ORGANISM  Streptococcus pneumoniae
+            Bacteria; Bacillati; Bacillota; Bacilli; Lactobacillales;
+            Streptococcaceae; Streptococcus.
+REFERENCE   1  (bases 1 to 1994)
+  AUTHORS   Del Grosso,M., Scotto d'Abusco,A., Iannelli,F., Pozzi,G. and
+            Pantosti,A.
+  TITLE     Tn2009, a Tn916-like element containing mef(E) in Streptococcus
+            pneumoniae
+  JOURNAL   Antimicrob. Agents Chemother. 48 (6), 2037-2042 (2004)
+   PUBMED   15155196
+REFERENCE   2  (bases 1 to 1994)
+  AUTHORS   Del Grosso,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-NOV-2003) Dept. of Infectious, Parasitic and
+            Immunomediated Diseases, Istituto Superiore di Sanita, Viale Regina
+            Elena 299, Roma 00161, Italy
+FEATURES             Location/Qualifiers
+     source          1..1994
+                     /organism="Streptococcus pneumoniae"
+                     /mol_type="genomic DNA"
+                     /strain="PN34"
+                     /db_xref="taxon:1313"
+     gene            4..1923
+                     /gene="tetM"
+     CDS             4..1923
+                     /gene="tetM"
+                     /note="tetracycline resistance"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="TetM"
+                     /protein_id="AAS45561.1"
+                     /translation="MKIINIGVLAHVDAGKTTLTESLLYNSGAITELGSVDRGTTKTDN
+                     TLLERQRGITIQTGITSFQWENTKVNIIDTPGHMDFLAEVYRSLSVLDGAILLISAKDG
+                     VQAQTRILFHALRKIGIPTIFFINKIDQNGIDLSTVYQDIKEKLSAEIVIKQKVELYPN
+                     MCVTNFTESEQWDTVIEGNDDLLEKYMSGKSLEALELEQEESIRFQNCSLFPVYHGSAK
+                     NNIGIDNLIEVITNKFYSSTHRGQSELCGKVFKIEYSEKRQRLAYIRLYSGVLHLRDSV
+                     RISEKEKIKITEMYTSINGELCKIDKAYSGEIVILQNEFLKLNSVLGDTKLLPQRKKIE
+                     NPHPLLQTTVEPSKPEQREMLLDALLEISDSDPLLRYYVDSTTHEIILSFLGKVQMEVI
+                     SALLQEKYHVEIELKEPTVIYMERPLKNAEYTIHIEVPPNPFWASIGLSVSPLPLGSGM
+                     QYESSVSLGYLNQSFQNAVMEGIRYGCEQGLYGWNVTDCKICFKYGLYYSPVSTPADFR
+                     MLAPIVLEQVLKKAGTELLEPYLSFKIYAPQEYLSRAYNDAPKYCANIVDTQLKNNEVI
+                     LSGEIPARCIQEYRSDLTFFTNGRSVCLTELKGYHVTTGEPVCQPRRPNSRIDKVRYMF
+                     NKIT"
+ORIGIN
+        1 cacatgaaaa ttattaatat tggagtttta gctcatgttg atgcgggaaa aactacctta
+       61 acagaaagct tattatataa cagtggagcg attacagaat taggaagcgt ggacagaggt
+      121 acaacgaaaa cggataatac gcttttagaa cgtcagagag gaattacaat tcagacagga
+      181 ataacctctt ttcagtggga aaatacgaag gtgaacatca tagacacgcc aggacatatg
+      241 gatttcttag cagaagtata tcgttcatta tcagttttag atggggcaat tctactgatt
+      301 tctgcaaaag atggcgtaca agcacaaact cgtatattgt ttcatgcact taggaaaata
+      361 ggtattccca caatcttttt tatcaataag attgaccaaa atggaattga tttatcaacg
+      421 gtttatcagg atattaaaga gaaactttct gccgaaattg taatcaaaca gaaggtagaa
+      481 ctgtatccta atatgtgtgt gacgaacttt accgaatctg aacaatggga tacggtaata
+      541 gagggaaacg atgacctttt agagaaatat atgtccggta aatcattaga agcattggaa
+      601 ctcgaacaag aggaaagcat aagatttcag aattgttccc tgttccctgt ttatcacgga
+      661 agtgcaaaaa acaatatagg gattgataac cttatagaag tgattacgaa taaattttat
+      721 tcatcaacac atcgaggtca gtctgaactt tgcggaaaag ttttcaaaat tgagtattcg
+      781 gaaaaaagac agcgtcttgc atatatacgt ctttatagtg gcgtactgca tttgcgagat
+      841 tcggttagaa tatcggaaaa ggaaaaaata aaaattacag aaatgtatac ttcaataaat
+      901 ggtgaattat gtaaaatcga taaggcttat tccggggaaa ttgttatttt gcaaaatgag
+      961 tttttgaagt taaatagtgt tcttggagat acaaaactat tgccacagag aaaaaagatt
+     1021 gaaaatccgc accctctact acaaacaact gttgaaccga gtaaacctga acagagagaa
+     1081 atgttgcttg atgccctttt ggaaatctca gatagtgatc cgcttctacg atattacgtg
+     1141 gattctacga cacatgaaat tatactttct ttcttaggga aagtacaaat ggaagtgatt
+     1201 agtgcactgt tgcaagaaaa gtatcatgtg gagatagaac taaaagagcc tacagtcatt
+     1261 tatatggaga gaccgttaaa aaatgcagaa tataccattc acatcgaagt gccgccaaat
+     1321 cctttctggg cttccattgg tttatctgta tcaccgcttc cgttgggaag tggaatgcag
+     1381 tatgagagct cggtttctct tggatactta aatcaatcgt ttcaaaatgc agttatggag
+     1441 gggatacgct atggctgtga acaaggattg tatggttgga atgtgacgga ctgtaaaatc
+     1501 tgttttaagt atggcttata ctatagccct gttagtaccc cagcagattt tcggatgctt
+     1561 gctcctattg tattggaaca agtcttaaaa aaagctggaa cagaattgtt agagccatat
+     1621 cttagtttta aaatttatgc gccacaggaa tatctttcac gagcatacaa cgatgctcct
+     1681 aaatattgtg cgaacatcgt agacactcaa ttgaaaaata atgaggtcat tcttagtgga
+     1741 gaaatccctg ctcggtgtat tcaagaatat cgtagtgatt taactttctt tacaaatgga
+     1801 cgtagtgttt gtttaacaga gttaaaaggg taccatgtta ctaccggtga acctgtttgc
+     1861 cagccccgtc gtccaaatag tcggatagat aaagtacgat atatgttcaa taaaataact
+     1921 tagtgtattt tatgttgtta tataaatatg gtttcttgtt aaataagatg aaatattttt
+     1981 taataaagat ttga
+//
+LOCUS       JF901756                 519 bp    DNA     linear   BCT 05-OCT-2011
+DEFINITION  Klebsiella pneumoniae strain hz117 aminoglycoside
+            6'-N-acetyltransferase Ib (aac(6')-Ib) gene, complete cds.
+ACCESSION   JF901756
+VERSION     JF901756.1
+KEYWORDS    .
+SOURCE      Klebsiella pneumoniae
+  ORGANISM  Klebsiella pneumoniae
+            Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria;
+            Enterobacterales; Enterobacteriaceae; Klebsiella/Raoultella group;
+            Klebsiella; Klebsiella pneumoniae complex.
+REFERENCE   1  (bases 1 to 519)
+  AUTHORS   Zhu,J.-M. and Jiang,R.-J.
+  TITLE     Studies on aminoglycoside acetyltransferase gene aac(6')-Ib-hz in
+            Klebsiella pneumoniae from P.R. China
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 519)
+  AUTHORS   Zhu,J.-M. and Jiang,R.-J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-APR-2011) Microbiology Laboratory, Hangzhou Yuhang
+            Hospital of Traditional Chinese Medicine, 100 Zhihetang Street,
+            Tangxi, Yuhang, Hangzhou, Zhejiang 311106, P.R. China
+FEATURES             Location/Qualifiers
+     source          1..519
+                     /organism="Klebsiella pneumoniae"
+                     /mol_type="genomic DNA"
+                     /strain="hz117"
+                     /isolation_source="sputum"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:573"
+                     /PCR_primers="fwd_seq: atgactgagcatgaccttgc, rev_seq:
+                     ttaggcatcactgcgtgttc"
+     gene            1..519
+                     /gene="aac(6')-Ib"
+     CDS             1..519
+                     /gene="aac(6')-Ib"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="aminoglycoside 6'-N-acetyltransferase Ib"
+                     /protein_id="AEP68839.1"
+                     /translation="MTEHDLAMLYEWLNRSHIVEWWGGEEARPTLADVQEQYLPSVLAQ
+                     ESVTPYIAMLNGEPIGYAQSYVALGSGDGWWEEETDPGVRGIDQSLANASQLGKGLGTK
+                     LVRALVELLFNDPEVTKIQTDPSPSNLRAIRCYEKAGFERQGTVTTPDGPAVYMVQTRQ
+                     AFERTRSDA"
+ORIGIN
+        1 atgactgagc atgaccttgc gatgctctat gagtggctaa atcgatctca tatcgtcgag
+       61 tggtggggcg gagaagaagc acgcccgaca cttgctgacg tacaggaaca gtacttgcca
+      121 agcgttttag cgcaagagtc cgtcactcca tacattgcaa tgctgaatgg agagccgatt
+      181 gggtatgccc agtcgtacgt tgctcttgga agcggggacg gatggtggga agaagaaacc
+      241 gatccaggag tacgcggaat agaccagtca ctggcgaatg catcacaact gggcaaaggc
+      301 ttgggaacca agctggttcg agctctggtt gagttgctgt tcaatgatcc cgaggtcacc
+      361 aagatccaaa cggacccgtc gccgagcaac ttgcgagcga tccgatgcta cgagaaagcg
+      421 gggtttgaga ggcaaggtac cgtaaccacc ccagatggtc cagccgtgta catggttcaa
+      481 acacgccagg cattcgagcg aacacgcagt gatgcctaa
+//
